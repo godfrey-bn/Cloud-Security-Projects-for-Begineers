@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, you'll learn how to secure Azure Virtual Machines (VMs) using Network Security Groups (NSGs). NSGs are used to control inbound and outbound traffic to your Azure resources. We'll cover setting up an Azure VM, configuring NSGs, and applying best practices for securing your Azure environment.
+In this project, you'll learn how to secure Azure Virtual Machines (VMs) using Network Security Groups(NSGs). NSGs are used to control inbound and outbound traffic to your Azure resources. We will cover setting up an Azure VM, configuring NSGs, and applying best practices for securing your Azure environment.
 
 ## Pre-requisites
 
@@ -106,4 +106,4 @@ In this project, you'll learn how to secure Azure Virtual Machines (VMs) using N
 
 ## Conclusion
 
-By completing these exercises, you have successfully set up an Azure VM, created a Network Security Group, configured security rules, and associated the NSG with your VM. These skills are essential for securing Azure resources and managing network traffic effectively.
+By completing these exercises, you have successfully set up an Azure Virtual Machine, created a Network Security Group, configured security rules, and associated the NSG with your VM. These skills are essential for securing Azure resources and managing network traffic effectively.
