@@ -125,10 +125,10 @@ In this project, you'll learn how to secure AWS EC2 instances. We'll cover basic
 
 1. In the AWS Management Console, navigate to the CloudWatch Dashboard.
 2. Click on "Alarms" and then "Create Alarm".
-3. Select the "EC2" metric and choose your instance.
+3. Select the "EC2" metric and choose the instance.
 4. Configure the alarm (e.g., CPU utilization > 80% for 5 minutes).
 5. Set up notifications (e.g., via email).
-6. Review and create the alarm.
+6. Review and then create the alarm.
 
 #### Expected Output
 
