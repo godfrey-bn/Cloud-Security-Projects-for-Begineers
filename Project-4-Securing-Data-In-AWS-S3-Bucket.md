@@ -12,7 +12,7 @@ In this project, you'll learn how to secure data in AWS S3 buckets. S3 is a scal
 
 ## Lab Set-up and Tools
 
-1. **AWS Account**: Sign up for a free AWS account if you don't have one.
+1. **AWS Account**: Sign up for a free AWS account if you dont have one.
 2. **AWS Management Console**: Access to the AWS Management Console.
 3. **AWS CLI**: Install the AWS Command Line Interface (CLI) on your local machine.
 
