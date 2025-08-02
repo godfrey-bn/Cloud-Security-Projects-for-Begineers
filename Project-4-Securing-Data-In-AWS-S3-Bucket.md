@@ -112,4 +112,4 @@ In this project, you'll learn how to secure data in AWS S3 buckets. S3 is a scal
 
 ## Conclusion
 
-By completing these exercises, you have successfully created an S3 bucket, enabled versioning and server-side encryption, set bucket policies, and configured access logs. These steps are essential for securing data stored in AWS S3.
+By completing these exercises, you have successfully created an S3 bucket, enabled versioning and server-side encryption, set bucket policies, and configured access logs. These steps are important and essential for securing data stored in AWS S3.
