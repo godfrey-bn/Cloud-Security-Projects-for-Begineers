@@ -14,7 +14,7 @@ In this project, you'll learn how to monitor and log activities in Azure using A
 
 1. **Azure Account**: Sign up for a free Azure account if you don't have one.
 2. **Azure Portal**: Access to the Azure Management Portal.
-3. **Azure CLI**: Install the Azure Command Line Interface (CLI) on your local machine.
+3. **Azure CLI**: Install Azure Command Line Interface (CLI) on your local machine.
 
 ## Exercises
 
